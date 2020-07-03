@@ -36,6 +36,8 @@ Alternatively, if you have issues with any of the following technologies, please
 | Windows Presentation Foundation (WPF) | https://github.com/dotnet/wpf |
 | WinForms | https://github.com/dotnet/winforms |
 | WinUI | https://github.com/Microsoft/microsoft-ui-xaml |
+| Winget package manager app | https://github.com/microsoft/winget-cli |
+| Winget package repo | https://github.com/microsoft/winget-pkgs |
 
 ## Contributing
 > We're not accepting PR's right now (currently, this is an issues-only repo), but if/when we do ...

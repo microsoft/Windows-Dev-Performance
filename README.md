@@ -21,9 +21,6 @@ At present we are accepting __developer-oriented performance issues__. Such issu
 
 ### ❌ Out of scope
 
-We cannot help you with your coding homework, we cannot help you open a broken Word document, and we cannot help you up your Halo game. We can only help you with in-scope subjects. Sorry! 😜
-
-### Submit issues to specific tech repos
 If you have feedback/issues related to the following technologies, please file issues in their repos where the teams that own those technologies will be best able to help:
 
 | Tech | Repo |
@@ -41,9 +38,10 @@ If you have feedback/issues related to the following technologies, please file i
 | WinUI | https://github.com/Microsoft/microsoft-ui-xaml |
 | Winget package manager app | https://github.com/microsoft/winget-cli |
 | Winget package repo | https://github.com/microsoft/winget-pkgs |
+| PowerToys | https://github.com/microsoft/powertoys |
 
 ### Submit all other issues via Feedback Hub
-If you have other out-of-scope feedback that you'd like to report/share, please submit via Windows' 10's [Feedback Hub](https://support.microsoft.com/en-in/help/4021566) tool which will route your feedback to the team that owns the technology you're experiencing issues with.
+If you have other out-of-scope feedback that you'd like to report/share, please submit via Windows' 10's [Feedback Hub](https://support.microsoft.com/en-in/help/4021566) which will route your feedback to the team that owns the technology you're experiencing issues with.
 
 ## Contributing
 > We're not accepting PR's right now (currently, this is an issues-only repo), but if/when we do ...

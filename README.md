@@ -4,12 +4,14 @@
 
 The purpose of this repo is to collect and catalog issues that affect / impact developers who work on Windows. It doesn't matter if you're developing applications FOR Windows or applications that you plan to deploy on Linux, Android, IoT devices, servers, containers, or cloud - if you're building code ON Windows, we'd love to hear from you.
 
+This repo is being driven and managed by a x-team, x-division group ofPMs and engineers who're all passionate about improving developers' experience on Windows. We are already coordinating several streams of ongoing work with teams across the company and throughout the community, aiming to drive many issues to ground.
+
 ## Scope of this repo
 Please take note of the current scope of this repo:
 
 We are currently only accepting specific types of issues at this time, while we build our skills and processes to triage and handle incoming issues.
 
-> In the future, we may broaden our scope to accept other types of issues, but for now, please only submit in-scope issues to this repo.
+> In the future, we plan to broaden our scope to accept other types of issues, but for now, please only submit in-scope issues to this repo.
 
 ### ✔ In Scope
 
@@ -42,6 +44,8 @@ If you have feedback/issues related to the following technologies, please file i
 
 ### Submit all other issues via Feedback Hub
 If you have other out-of-scope feedback that you'd like to report/share, please submit via Windows' 10's [Feedback Hub](https://support.microsoft.com/en-in/help/4021566) which will route your feedback to the team that owns the technology you're experiencing issues with.
+
+👉 Feedback Hub offers several very useful features that help us track-down complex issues, including the ability to record scenario-specific repro steps and traces. We may on occasion ask you to file an issue via Feedback Hub in order to collect these traces.
 
 ## Contributing
 > We're not accepting PR's right now (currently, this is an issues-only repo), but if/when we do ...

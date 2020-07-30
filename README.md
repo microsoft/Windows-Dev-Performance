@@ -4,7 +4,7 @@
 
 The purpose of this repo is to collect and catalog issues that affect / impact developers who work on Windows. It doesn't matter if you're developing applications FOR Windows or applications that you plan to deploy on Linux, Android, IoT devices, servers, containers, or cloud - if you're building code ON Windows, we'd love to hear from you.
 
-This repo is being driven and managed by a x-team, x-division group ofPMs and engineers who're all passionate about improving developers' experience on Windows. We are already coordinating several streams of ongoing work with teams across the company and throughout the community, aiming to drive many issues to ground.
+This repo is being driven and managed by a x-team, x-division group of PMs and engineers who're all passionate about improving developers' experience on Windows. We are already coordinating several streams of ongoing work with teams across the company and throughout the community, aiming to drive many issues to ground.
 
 ## Scope of this repo
 Please take note of the current scope of this repo:

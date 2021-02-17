@@ -6,6 +6,8 @@ The purpose of this repo is to collect and catalog issues that affect / impact d
 
 This repo is being driven and managed by a x-team, x-division group of PMs and engineers who're all passionate about improving developers' experience on Windows. We are already coordinating several streams of ongoing work with teams across the company and throughout the community, aiming to drive many issues to ground.
 
+**[File an issue](https://github.com/microsoft/WinDev/issues)**
+
 ## Scope of this repo
 Please take note of the current scope of this repo:
 

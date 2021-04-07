@@ -2,18 +2,22 @@
 
 ## Welcome to the Windows Developer (WinDev) Issues repo!
 
-The purpose of this repo is to collect and catalog issues that affect / impact developers who work on Windows. It doesn't matter if you're developing applications FOR Windows or applications that you plan to deploy on Linux, Android, IoT devices, servers, containers, or cloud - if you're building code ON Windows, we'd love to hear from you.
+The purpose of this repo is to collect and catalog issues that affect / impact the inner loop of developers who work on Windows. The developer inner loop would include areas such as compile, run, build, test, debug, and commit. It doesn't matter if you're developing applications FOR Windows or applications that you plan to deploy on Linux, Android, IoT devices, servers, containers, or cloud - if you're building code ON Windows, we'd love to hear from you.
 
 This repo is being driven and managed by a x-team, x-division group of PMs and engineers who're all passionate about improving developers' experience on Windows. We are already coordinating several streams of ongoing work with teams across the company and throughout the community, aiming to drive many issues to ground.
-
-**[File an issue](https://github.com/microsoft/WinDev/issues)**
 
 ## Scope of this repo
 Please take note of the current scope of this repo:
 
-We are currently only accepting specific types of issues at this time, while we build our skills and processes to triage and handle incoming issues.
+We are currently only accepting specific types of issues - those affecting / impacting the inner developer loop:
+*compile
+*run
+*build
+*test 
+*debug
+*commit
 
-> In the future, we plan to broaden our scope to accept other types of issues, but for now, please only submit in-scope issues to this repo.
+**[File an issue](https://github.com/microsoft/Windows-Dev-Performance/issues)**
 
 ### ✔ In Scope
 

@@ -21,10 +21,13 @@ All good? Then proceed!
 <!--
 This issue repo is monitored by Windows engineering team members and other technical folks.
 
-**Important: When reporting BSODs or security issues, DO NOT attach memory dumps, logs, or traces to Github issues**.
-Instead, send dumps/traces to secure@microsoft.com, referencing this GitHub issue.
+**Traces are required in order to triage issues**
+You may collect traces using the [Windows Performance Recorder](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-recorder) and sending them to windevperffeedback@microsoft.com. You can also use the Feedback Hub for trace collection. Before filing your feedback, choose "Start recording" to capture a trace as you recreate the issue. Choose the "Savea a local copy of diagnostics and attachments create when giving feedback" box and click "Share My Feedback" after submission to get the link. Include the link in this issue.
 
-If this is an application crash, please also provide a Feedback Hub submission link so we can find your diagnostic data on the backend. Use the category "Apps > Windows Terminal (Preview)" and choose "Share My Feedback" after submission to get the link.
+**Important: When reporting BSODs or security issues, DO NOT attach memory dumps, logs, or traces to Github issues**.
+Instead, send dumps/traces to secure@microsoft.com and windevperffeedback@microsoft.com, referencing this GitHub issue.
+
+ If this is an application crash, please also provide a Feedback Hub submission link so we can find your diagnostic data on the backend. Use the category "Apps > Windows Terminal (Preview)" and choose "Share My Feedback" after submission to get the link.
 
 Please use this form and describe your issue, concisely but precisely, with as much detail as possible.
 
@@ -41,6 +44,7 @@ Please use this form and describe your issue, concisely but precisely, with as m
 | Memory | ___ |
 | Storage Type, free / capacity (e.g. C: SSD 128GB / 512GB) | ___ | 
 | Relevant apps installed  | ___ |
+| Traces? (Y/N) | ___ | 
 
 ## Description
 <!-- Summarize the issue you're seeing, it's impact, how it affects you/your work, etc.  -->

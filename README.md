@@ -1,6 +1,6 @@
-# Windows Developers' Issues
+# Windows Dev Performance's Issues
 
-## Welcome to the Windows Developer (WinDev) Issues repo!
+## Welcome to the Windows Dev Performance Issues repo!
 
 The purpose of this repo is to collect and catalog issues that affect / impact the inner loop of developers who work on Windows. The developer inner loop would include areas such as compile, run, build, test, debug, and commit. It doesn't matter if you're developing applications FOR Windows or applications that you plan to deploy on Linux, Android, IoT devices, servers, containers, or cloud - if you're building code ON Windows, we'd love to hear from you.
 
@@ -9,24 +9,22 @@ This repo is being driven and managed by a x-team, x-division group of PMs and e
 ## Scope of this repo
 Please take note of the current scope of this repo:
 
-We are currently only accepting specific types of issues - those affecting / impacting the inner developer loop:
-*compile
-*run
-*build
-*test 
-*debug
-*commit
-
-**[File an issue](https://github.com/microsoft/Windows-Dev-Performance/issues)**
-
 ### ✔ In Scope
 
-At present we are accepting __developer-oriented performance issues__. Such issues include, for example:
+We are currently only accepting specific types of issues - __those impacting the developer inner loop__:
+* compile
+* run
+* build
+* test 
+* debug
+* commit
+
+Example issues include:
 * Dev tools (e.g. compilers, linkers, etc.) running slower on Windows than expected
 * Runtime platforms (e.g. node, .NET, Python) running slower on Windows than other platforms
 * Your apps experiencing file IO/networking/process-creation related perf issues
 * Etc.
-
+ 
 ### ❌ Out of scope
 
 If you have feedback/issues related to the following technologies, please file issues in their repos where the teams that own those technologies will be best able to help:
@@ -53,6 +51,13 @@ If you have feedback/issues related to the following technologies, please file i
 If you have other out-of-scope feedback that you'd like to report/share, please submit via Windows' 10's [Feedback Hub](https://support.microsoft.com/en-in/help/4021566) which will route your feedback to the team that owns the technology you're experiencing issues with.
 
 👉 Feedback Hub offers several very useful features that help us track-down complex issues, including the ability to record scenario-specific repro steps and traces. We may on occasion ask you to file an issue via Feedback Hub in order to collect these traces.
+
+## How to File an Issue
+
+**[File an issue](https://github.com/microsoft/Windows-Dev-Performance/issues)**. 
+
+### Traces
+Traces are required for filing an issue. You can collect traces by using The Feedback Hub, or throught the [Windows Performance Recorder](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-recorder). If using the Feedback Hub, include a link to the submission in your issue. 
 
 ## Contributing
 > We're not accepting PR's right now (currently, this is an issues-only repo), but if/when we do ...

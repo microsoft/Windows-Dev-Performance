@@ -6,7 +6,7 @@ body:
 - type: markdown
   attributes:
     value: |
-    All of the fields in this form are required. For traces, please file the issue under the appropriate feedback hub category and collect traces there. Then, include the link to your piece of feedback under the Traces collected via Feedback Hub field.
+      All of the fields in this form are required. For traces, please file the issue under the appropriate feedback hub category and collect traces there. Then, include the link to your piece of feedback under the Traces collected via Feedback Hub field.
 - type: input
   attributes:
     label: Windows Build Number

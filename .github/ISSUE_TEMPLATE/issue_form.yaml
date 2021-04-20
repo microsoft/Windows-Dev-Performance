@@ -1,7 +1,7 @@
 ---
 name: "Windows Dev Performance Issue"
 description: |
-  Tell us more about your performance issues.
+  Report performance issues with dev tools, runtimes, etc. on Windows 10
 body:
 - type: markdown
   attributes:

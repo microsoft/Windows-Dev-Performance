@@ -45,11 +45,11 @@ body:
   validations:
     required: true
  
- - type: textarea
-   attributes:
+- type: textarea
+  attributes:
     label: Isssue description
     placeholder: "Please provie a description of your issue"
-   validations:
+  validations:
     required: true
 
 - type: textarea

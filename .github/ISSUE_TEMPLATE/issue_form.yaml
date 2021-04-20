@@ -62,4 +62,3 @@ body:
     placeholder: "Describe What's actually happening, inc. screenshots, output text, etc."
   validations:
     required: true
-issue_body: false

@@ -1,0 +1,65 @@
+---
+name: Dev Performance Issue Template
+description: Tell us more about your performance issue. All of the fields in this form are required. For traces, please file the issue under the appropriate feedback hub category and collect traces there. Then, include the link to your piece of feedback under the "Traces collected via Feedback Hub" field. 
+body:
+- type: textarea
+  attributes:
+    label: OS, Version / Build 
+    placeholder: "run `[Environment]::OSVERSION` in PowerShell"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Processor Architecture	
+    placeholder:  "run `$env:PROCESSOR_ARCHITECTURE` in PowerShell"
+  validations:
+    required: true
+- type: textarea  
+  attributes:
+    label: Memory
+    placeholder: 
+  validations:
+    required: true
+- type: textarea  
+  attributes:
+    label: Storage Type, free / capacity 
+    placeholder: "e.g. C: SSD 128GB / 512GB"	
+  validations:
+    required: true
+- type: textarea  
+  attributes:
+    label: Relevant apps installed
+    placeholder: "(e.g. python3.8)"
+  validations:
+    required: true
+- type: textarea 
+  attributes:
+    label: Traces collected via Feedback Hub 
+    placeholder: "Please provide Feedback Hub link with traces"
+  validations:
+    required: true
+ - type: textarea
+   attributes:
+    label: Isssue description
+    placeholder: "Please provie a description of your issue"
+   validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Steps to reproduce
+    placeholder: "Describe how to trigger this bug. Please be as descriptive as possible here. Bonus points for screenshots, commands/scripts where appropriate"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    placeholder: "Describe what you'd like to see"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Actual Behavior
+    placeholder: "Describe What's actually happening, inc. screenshots, output text, etc."
+  validations:
+    required: true
+issue_body: false
